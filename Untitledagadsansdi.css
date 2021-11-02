@@ -1,0 +1,230 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1404.47">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Courier; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;!--</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">                           </span></span></p>
+<p class="p1"><span class="s1">SKIN TRANSPARENTE #01:</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">SKIN FEITA POR ARTHUR, REPROVADO.TUMBLR.COM</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">Pense bem antes de tentar copiar, eu conheço meus códigos e se eu descobrir vocę tá fudido... Pra caralho.</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">--&gt;</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">@font-face {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-family: 'Dosis';</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-style: normal;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: 400;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>src: local('Dosis Regular'), local('Dosis-Regular'), url(https://fonts.gstatic.com/s/dosis/v4/RlBXAIuiO5GvH9-0-JbBlw.woff2) format('woff2');</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">@font-face {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-family: 'Dosis';</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-style: normal;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: 400;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>src: local('Dosis Regular'), local('Dosis-Regular'), url(https://fonts.gstatic.com/s/dosis/v4/4hYyXH_8WmbBLamf6WjLwg.woff2) format('woff2');</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">@font-face {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-family: 'Montserrat';</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-style: normal;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: 400;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>src: local('Montserrat-Regular'), url(https://fonts.gstatic.com/s/montserrat/v6/zhcz-_WihjSQC0oHJ9TCYPk_vArhqVIZ0nv9q090hN8.woff2) format('woff2');</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player,#player a{ color:#aaa;<span class="Apple-converted-space">  </span>font-size: 11px; font-family:Dosis;}</span></p>
+<p class="p1"><span class="s1">#player{ background-color: #;}</span></p>
+<p class="p1"><span class="s1">#playerW{width:2430px;left:0px !important;}</span></p>
+<p class="p1"><span class="s1">#player .mainImage {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/volume-24-128.png);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 15px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 35px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #baseLeft{ width:93px; }</span></p>
+<p class="p1"><span class="s1">#player #baseRight{ width:145px;}</span></p>
+<p class="p1"><span class="s1">#player .button{<span class="Apple-converted-space">  </span>width:26px; }</span></p>
+<p class="p1"><span class="s1">#player #play, #player #pause {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 36px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 10px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-pause-128.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 15px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #play {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 36px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 10px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn1.iconfinder.com/data/icons/material-audio-video/14/play-arrow-128.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 10px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #previous {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 55px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 15px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn2.iconfinder.com/data/icons/picol-vector/32/controls_chapter_previous-128.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 13px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#player #next {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 75px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 13px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn2.iconfinder.com/data/icons/picol-vector/32/controls_chapter_next-128.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 13px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #title {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: -100px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-size: 9px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 100px !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#player #tooltip{ right:196px; }</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #timer {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 130px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-align: left !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 25px !important;</span></p>
+<p class="p1"><span class="s1">font-family: consolas;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: bold;</span></p>
+<p class="p1"><span class="s1">color:#000 !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #list {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 22px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 0px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn3.iconfinder.com/data/icons/google-material-design-icons/48/ic_playlist_add_48px-128.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 22px!important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 100px !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #seeker{ right:320px; top: 100px !important;}</span></p>
+<p class="p1"><span class="s1">#player #seekerBase {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>z-index: 2;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 100%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border: 1px solid;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 100px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>height: 4px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: -1px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>opacity: 0 !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#player #seekerBuffered {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>z-index: 1;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 70%;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 100px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>height: 5px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>left: 0;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>opacity: 0 !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#player #seekerSliderBase{ background-color:#; }</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#player #volume{ width:65px; right:39px; }</span></p>
+<p class="p1"><span class="s1">#player #volumeSlider{ width:8px;<span class="Apple-converted-space">  </span>}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist,#playlist .module,#playlist h3{ border-color:#;}</span></p>
+<p class="p1"><span class="s1">#playlist .module {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>color: #aaa;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-color: #fff;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 65px !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#playlist h3 {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://dl.dropbox.com/u/58708531/bar2.jpg);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>color: #aaa;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-color: #fff !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-family: dosis !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: normal !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-transform: uppercase !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>letter-spacing: 6px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-size: 20px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>padding: 20px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-align: center !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#playlist .even{background-color:#fff;}</span></p>
+<p class="p1"><span class="s1">#playlist .odd{ background-color:#fff;}</span></p>
+<p class="p1"><span class="s1">#playlist .focus{ background-color:#fff; color:#aaa;}</span></p>
+<p class="p1"><span class="s1">#playlistW {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>z-index: 15;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">   </span>right: -2px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>top: 0;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>bottom: 0;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 0;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://static.tumblr.com/np5pebu/OT5nr2zb9/logo_rp_designs.png),url(https://i.imgur.com/4PDZCpN.png) !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: center 23px,0px 0px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat, repeat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border: 1px solid #eee !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p1"><span class="s1">#playlist, #playlist .module, #playlist h3 {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border-color: #eee !important;</span></p>
+<p class="p2"><span class="s1"><span class="Apple-converted-space">  </span></span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist .item {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>cursor: pointer !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>padding: 10px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>width: 1000px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border-bottom: 1px solid #eee !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist li {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>cursor: pointer !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-family: montserrat !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-size: 10px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>line-height: 18px !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>font-weight: normal !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>text-transform: uppercase !important;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>letter-spacing: 2px !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist .focus {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-color: #fff;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-color: #eee;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background: url(https://cdn2.iconfinder.com/data/icons/flat-ui-icons-24-px/24/volume-24-128.png);</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-size: 15px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-repeat: no-repeat;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>background-position: 255px;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>/* -webkit-filter: invert(80%); */</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border-bottom: 1px solid #eee !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist .focus img{</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space"> </span>-webkit-filter: invert(80%) !important;<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">#playlist {</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>border-bottom: 1px solid #eee;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>margin-top: 100px !important;</span></p>
+<p class="p1"><span class="s1">}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+</body>
+</html>
